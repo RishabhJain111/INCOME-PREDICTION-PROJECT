@@ -1,4 +1,2 @@
 # INCOME-PREDICTION-PROJECT
-In this project we predict income of worldwide adult peoples having diff. occupations,education,marital_status & all.
-Use Classification ML algorithms to predict
-Also used Python libaraies numpy,pandas,matplotlib,seaborn for data cleaning,visualization processes.
+The "Adult Income Prediction ML Project" aims to predict worldwide adult incomes using machine learning classification models. It incorporates data cleaning, exploratory data analysis, feature engineering, and data visualization techniques to analyze factors such as age, education, marital status, and occupation for accurate income predictions.
